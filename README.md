@@ -1,6 +1,7 @@
 # FreedFi
-"Empowering freelancers through talent-backed loans with FreedFi."
 
+"Empowering freelancers through talent-backed loans with FreedFi."
+## [Devfolio Link](https://devfolio.co/projects/freedfi-2a07)
 ## Project Description
 FreedFi is pioneering Freedom for Freelancers by revolutionizing the lending landscape. Our community lending infrastructure offers Talent-backed loans to skilled contractors. Leveraging decentralized finance strategies and Trust Credentials, we bring transparency, accountability, and real-time credit scoring to the lending cycle. 
 
